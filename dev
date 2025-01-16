@@ -1,0 +1,20 @@
+
+> health-claims-backend@0.0.1 start
+> nest start
+
+[32m[Nest] 28632  - [39m03/01/2025, 10:10:55 p.m. [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+[32m[Nest] 28632  - [39m03/01/2025, 10:10:55 p.m. [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAppModule dependencies initialized[39m[38;5;3m +18ms[39m
+[32m[Nest] 28632  - [39m03/01/2025, 10:10:55 p.m. [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMongooseModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 28632  - [39m03/01/2025, 10:10:55 p.m. [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mClaimsModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 28632  - [39m03/01/2025, 10:10:55 p.m. [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 28632  - [39m03/01/2025, 10:10:55 p.m. [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 28632  - [39m03/01/2025, 10:10:55 p.m. [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMongooseCoreModule dependencies initialized[39m[38;5;3m +18ms[39m
+[32m[Nest] 28632  - [39m03/01/2025, 10:10:55 p.m. [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMongooseModule dependencies initialized[39m[38;5;3m +3ms[39m
+[32m[Nest] 28632  - [39m03/01/2025, 10:10:55 p.m. [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mInfluencersModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 28632  - [39m03/01/2025, 10:10:55 p.m. [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mInfluencersController {/influencers}:[39m[38;5;3m +3ms[39m
+[32m[Nest] 28632  - [39m03/01/2025, 10:10:55 p.m. [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/influencers/analyze, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 28632  - [39m03/01/2025, 10:10:55 p.m. [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/influencers, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 28632  - [39m03/01/2025, 10:10:55 p.m. [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/influencers/leaderboard, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 28632  - [39m03/01/2025, 10:10:55 p.m. [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mClaimsController {/claims}:[39m[38;5;3m +0ms[39m
+[32m[Nest] 28632  - [39m03/01/2025, 10:10:55 p.m. [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +1ms[39m
+¨Desea terminar el trabajo por lotes (S/N)? 
